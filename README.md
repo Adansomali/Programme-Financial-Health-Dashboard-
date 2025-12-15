@@ -20,7 +20,6 @@ The dashboard is designed to support programme managers, finance officers, and s
 •	To develop a single, integrated dashboard that enables decision-makers to:
 •	Track delivery against forecasts
 •	Monitor financial execution efficiency
-•	Data Description
 
 ## The dataset used in this portfolio project consists of programme- and project-level financial and operational data, including:
 
