@@ -88,14 +88,17 @@ Overall programme delivery stands at 71.45% of the 2025 forecast
 
 •	Dashboard storytelling for executive audiences
 
-## Dashboard Screenshots
+## Dashboard 
 •	Programme Overview & Delivery Performance
+<img width="562" height="435" alt="programme_overview_forecast_vs_delivery" src="https://github.com/user-attachments/assets/c12afe72-5da7-454f-87f0-2e1ee39cfe3e" />
 
-•	Forecast vs Quarterly & Monthly Delivery
 
-•	Project-Level Performance Monitoring
+•	Forecast vs Quarterly & Monthly Delivery <img width="563" height="455" alt="quarterly_forecast_vs_delivery" src="https://github.com/user-attachments/assets/71f00f5c-fbe7-4c72-8a89-87eddbf5ec13" />
 
-•	Budget, Burn Rate & Cash Balance Analysis
+•	Budget, Burn Rate & Cash Balance Analysis 
+<img width="708" height="455" alt="burn_rate_by_project" src="https://github.com/user-attachments/assets/589bdb4a-9d9e-477a-8c07-c68730b2b77b" />
+
+
 
 ## Author
 
